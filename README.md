@@ -1,5 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## AWS Amplify
+
+This project uses AWS Amplify for cloud services and integration. The app uses the aws user amplify-1KSbS credentials. 
+
+AWS Amplify: https://aws.amazon.com/amplify/
+
 ## Available Scripts
 
 In the project directory, you can run:
